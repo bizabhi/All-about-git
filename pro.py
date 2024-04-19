@@ -6,6 +6,7 @@ num = 29
 #num = int(input("Enter a number: "))
 
 # define a flag variable
+# define a flag variable
 flag = False
 
 if num == 1:
